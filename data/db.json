@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "a11d",
+      "title": "Home coming party",
+      "body": "mI LOVE MY PARTY MI BAD KARIRI NI PENG WA KUTESA ",
+      "author": "mario"
+    },
+    {
+      "id": "3cef",
+      "title": "HIV & AIDS",
+      "body": "HIV is a virus passes through sexual intercourse",
+      "author": "yoshi"
+    },
+    {
+      "id": "fe24",
+      "title": "Marraige",
+      "body": "marriage is a beautiful thing",
+      "author": "ann"
+    }
+  ]
+}
